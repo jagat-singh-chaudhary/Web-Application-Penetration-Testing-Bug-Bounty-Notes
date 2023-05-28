@@ -85,7 +85,7 @@ Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
 #### Phase 3 – Setting up the lab with BurpSuite and bWAPP
 
 
-### MANISH AGRAWAL
+### JAGAT SINGH
 
 
 Setup lab with bWAPP - https://www.youtube.com/watch?v=dwtUn3giwTk&index=1&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV
