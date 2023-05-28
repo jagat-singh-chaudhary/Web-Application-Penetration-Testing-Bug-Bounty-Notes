@@ -675,4 +675,4 @@ Demo 6 - https://hackerone.com/reports/430854
 
 # ENJOY & HAPPY LEARNING! ♥
 
-Follow [@xalgord](https://twitter.com/xalgord/)
+Follow [ Jagat Singh ] (https://www.linkedin.com/in/jagat-singh-b824701b8 )
